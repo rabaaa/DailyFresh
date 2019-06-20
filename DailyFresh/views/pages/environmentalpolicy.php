@@ -1,0 +1,1 @@
+<?php include("environmentalpolicy_text.php"); ?>

@@ -1,0 +1,1 @@
+<?php include("termsconditions_text.php"); ?>	
